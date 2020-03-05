@@ -10,7 +10,7 @@
 #include <vld.h>
 #include <vld_def.h>
 
-
+//Projekt 3 semestr
 int main(int argc, char * argv[])
 {
 	std::string login = "";
