@@ -1,0 +1,4 @@
+Zarzadzajacy.txt
+Firma1.txt
+Firma2.txt
+Firma3.txt

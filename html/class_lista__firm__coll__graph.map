@@ -1,0 +1,10 @@
+<map id="Lista_firm" name="Lista_firm">
+<area shape="rect" id="node1" title=" " alt="" coords="67,591,145,617"/>
+<area shape="rect" id="node2" href="$class_firma.html" title=" " alt="" coords="79,515,133,541"/>
+<area shape="rect" id="node3" href="$class_listapracownikow.html" title=" " alt="" coords="5,247,129,273"/>
+<area shape="rect" id="node8" href="$class_administrator.html" title=" " alt="" coords="130,336,229,363"/>
+<area shape="rect" id="node4" href="$class_pracownik.html" title=" " alt="" coords="162,171,245,197"/>
+<area shape="rect" id="node5" href="$class_listadni.html" title=" " alt="" coords="170,81,237,108"/>
+<area shape="rect" id="node6" href="$class_dzien.html" title=" " alt="" coords="176,5,231,32"/>
+<area shape="rect" id="node7" href="$class_lista__administratorow.html" title=" " alt="" coords="105,425,253,452"/>
+</map>

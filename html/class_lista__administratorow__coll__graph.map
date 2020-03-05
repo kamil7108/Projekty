@@ -1,0 +1,8 @@
+<map id="Lista_administratorow" name="Lista_administratorow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,412,153,439"/>
+<area shape="rect" id="node2" href="$class_administrator.html" title=" " alt="" coords="30,336,129,363"/>
+<area shape="rect" id="node3" href="$class_pracownik.html" title=" " alt="" coords="18,171,101,197"/>
+<area shape="rect" id="node6" href="$class_listapracownikow.html" title=" " alt="" coords="81,247,205,273"/>
+<area shape="rect" id="node4" href="$class_listadni.html" title=" " alt="" coords="26,81,93,108"/>
+<area shape="rect" id="node5" href="$class_dzien.html" title=" " alt="" coords="32,5,87,32"/>
+</map>

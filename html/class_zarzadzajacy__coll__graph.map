@@ -1,0 +1,11 @@
+<map id="Zarzadzajacy" name="Zarzadzajacy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,680,104,707"/>
+<area shape="rect" id="node2" href="$class_administrator.html" title=" " alt="" coords="84,336,183,363"/>
+<area shape="rect" id="node9" href="$class_lista__administratorow.html" title=" " alt="" coords="61,425,209,452"/>
+<area shape="rect" id="node3" href="$class_pracownik.html" title=" " alt="" coords="108,171,191,197"/>
+<area shape="rect" id="node6" href="$class_listapracownikow.html" title=" " alt="" coords="171,247,295,273"/>
+<area shape="rect" id="node4" href="$class_listadni.html" title=" " alt="" coords="116,81,183,108"/>
+<area shape="rect" id="node5" href="$class_dzien.html" title=" " alt="" coords="122,5,177,32"/>
+<area shape="rect" id="node8" href="$class_firma.html" title=" " alt="" coords="107,515,162,541"/>
+<area shape="rect" id="node7" href="$class_lista__firm.html" title=" " alt="" coords="69,591,147,617"/>
+</map>

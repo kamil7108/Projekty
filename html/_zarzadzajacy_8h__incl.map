@@ -1,0 +1,24 @@
+<map id="Zarzadzajacy.h" name="Zarzadzajacy.h">
+<area shape="rect" id="node1" title=" " alt="" coords="683,5,794,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="826,603,886,629"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1465,603,1519,629"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1160,603,1232,629"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1713,603,1778,629"/>
+<area shape="rect" id="node6" title=" " alt="" coords="660,528,743,555"/>
+<area shape="rect" id="node7" title=" " alt="" coords="505,528,585,555"/>
+<area shape="rect" id="node8" title=" " alt="" coords="416,528,480,555"/>
+<area shape="rect" id="node9" title=" " alt="" coords="259,379,328,405"/>
+<area shape="rect" id="node10" title=" " alt="" coords="352,379,419,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="443,379,498,405"/>
+<area shape="rect" id="node12" href="$_listadni_8h.html" title=" " alt="" coords="1021,528,1099,555"/>
+<area shape="rect" id="node14" href="$_pracownik_8h.html" title=" " alt="" coords="1001,453,1095,480"/>
+<area shape="rect" id="node15" href="$_haslo_8h.html" title=" " alt="" coords="47,453,113,480"/>
+<area shape="rect" id="node18" href="$_lista__pracownikow_8h.html" title=" " alt="" coords="1385,379,1527,405"/>
+<area shape="rect" id="node19" href="$_lista__administratorow_8h.html" title=" " alt="" coords="1099,229,1258,256"/>
+<area shape="rect" id="node20" href="$_administrator_8h.html" title=" " alt="" coords="683,304,794,331"/>
+<area shape="rect" id="node21" href="$_lista__firm_8h.html" title=" " alt="" coords="1597,80,1686,107"/>
+<area shape="rect" id="node13" href="$_dzien_8h.html" title=" " alt="" coords="1027,603,1093,629"/>
+<area shape="rect" id="node16" title=" " alt="" coords="143,528,209,555"/>
+<area shape="rect" id="node17" title=" " alt="" coords="44,528,119,555"/>
+<area shape="rect" id="node22" href="$_firma_8h.html" title=" " alt="" coords="1608,155,1675,181"/>
+</map>

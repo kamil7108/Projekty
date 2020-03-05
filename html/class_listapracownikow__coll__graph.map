@@ -1,0 +1,6 @@
+<map id="Listapracownikow" name="Listapracownikow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,247,129,273"/>
+<area shape="rect" id="node2" href="$class_pracownik.html" title=" " alt="" coords="26,171,109,197"/>
+<area shape="rect" id="node3" href="$class_listadni.html" title=" " alt="" coords="34,81,101,108"/>
+<area shape="rect" id="node4" href="$class_dzien.html" title=" " alt="" coords="40,5,95,32"/>
+</map>
